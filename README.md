@@ -1,2 +1,2 @@
-super-big-project-one
-=====================
+Super Big Awesome Project
+=========================
